@@ -66,7 +66,7 @@ box-shadow: none;
 .products{
 	background-color: grey;
 }
-.box{
+.medium-box{
 	width: 30%;
 	display: inline-block;
 	margin-left: 15px;
@@ -77,4 +77,17 @@ box-shadow: none;
 }
 .section-header h2{
 	padding-bottom: 20px;
+}
+.box{
+	display: inline-block;
+	width: 49%;
+	margin: 0 auto;
+	vertical-align: top;
+}
+.box h3{
+	text-align: center;
+	font-size: 35px;
+}
+.description{
+	background-color: beige;
 }
