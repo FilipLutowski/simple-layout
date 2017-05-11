@@ -63,3 +63,18 @@ box-shadow: none;
 .section-header{
 	text-align: center;
 }
+.products{
+	background-color: grey;
+}
+.box{
+	width: 30%;
+	display: inline-block;
+	margin-left: 15px;
+}
+.content-box{
+	background-color: white;
+	height: 160px;
+}
+.section-header h2{
+	padding-bottom: 20px;
+}
