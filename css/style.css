@@ -103,3 +103,11 @@ box-shadow: none;
 .our-clients{
 	background-color: grey;
 }
+.super-section{
+	background-color: beige;
+}
+/*styles to footer*/
+footer{
+	width: 100%;
+	background-color: grey;
+}
