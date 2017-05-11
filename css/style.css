@@ -91,3 +91,15 @@ box-shadow: none;
 .description{
 	background-color: beige;
 }
+.box p{
+	padding: 10px;
+}
+.small-box{
+	display: inline-block;
+	width: 14%;
+	margin-left: 13px;
+
+}
+.our-clients{
+	background-color: grey;
+}
